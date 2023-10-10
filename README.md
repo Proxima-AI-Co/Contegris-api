@@ -1,3 +1,3 @@
 - install all packages by using `pip install -r requirements.txt`
 - run app with `python3 app.py`
-- use [this] (https://documenter.getpostman.com/view/12992383/2s9YJhwfM9)https://documenter.getpostman.com/view/12992383/2s9YJhwfM9) documentation to test the API
+- use [This](https://documenter.getpostman.com/view/12992383/2s9YJhwfM9) documentation to test the API
