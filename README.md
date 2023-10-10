@@ -1,0 +1,3 @@
+- install all packages by using `pip install -r requirements.txt`
+- run app with `python3 app.py`
+- use [requirements.txt](this) documentation to test the API
