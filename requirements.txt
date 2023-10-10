@@ -1,0 +1,6 @@
+pandas
+flask
+transformers
+spacy_udpipe
+python-dotenv
+Flask-CORS
